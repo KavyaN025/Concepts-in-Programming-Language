@@ -1,5 +1,4 @@
 # Concepts in Programming Languages
-
 This repository contains various projects and experiments related to the fundamental concepts taught in the *Concepts of Programming Languages* (CPL) course.
 
 Author - Kavya Namburi
