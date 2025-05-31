@@ -1,9 +1,12 @@
 # Concepts in Programming Languages
 This repository contains various projects and experiments related to the fundamental concepts taught in the *Concepts of Programming Languages* (CPL) course.
 
-Author - Kavya Namburi
+Author:Kavya Namburi
+
+---
 
 ## 📁 Projects Included
+---
 
 ### 🔢 1. 1024-bit Big Integer Calculator
 Implements arithmetic operations (addition, subtraction, multiplication, division) on large integers up to 1024 bits using C. Demonstrates bit-level manipulation and number representation.
@@ -20,6 +23,8 @@ Includes sample C programs compiled with `-O0` and `-O2` using GCC. Contains lin
 - Inlining
 - Loop unrolling
 - Dead code elimination
+
+---
 
 ## 🔧 Technologies Used
 - C Programming Language
